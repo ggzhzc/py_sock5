@@ -48,7 +48,7 @@
 * **SOCKS5代理服务**：提供 SOCKS5 出口代理，并伪装为正常 Web 服务
 
 ---
-## Web伪装页面：
-![图片alt](https://github.com/ggzhzc/py_sock5/blob/main/Image/001.png?raw=true "Web伪装页面")
+## HTML伪装页面：
+![图片alt](https://github.com/ggzhzc/py_sock5/blob/main/Image/001.png?raw=true "HTML伪装页面")
 
 ---
